@@ -1,0 +1,32 @@
+[
+    {
+      "id": "632e0facb9c60dea3b13ab80",
+      "price": 85,
+      "eyeColor": "blue",
+      "name": "Stephenson Webb"
+    },
+    {
+      "id": "632e0fac06ee2e9d072791c0",
+      "price": 162,
+      "eyeColor": "green",
+      "name": "Tillman Dodson"
+    },
+    {
+      "id": "632e0facf9db6c7403af482d",
+      "price": 313,
+      "eyeColor": "blue",
+      "name": "Joni Bryant"
+    },
+    {
+      "id": "632e0faccbbc83845409cefc",
+      "price": 63,
+      "eyeColor": "blue",
+      "name": "Rosario Boyle"
+    },
+    {
+      "id": "632e0fac75e542efa6189e8e",
+      "price": 293,
+      "eyeColor": "brown",
+      "name": "Nichols Downs"
+    }
+  ]
